@@ -11,7 +11,7 @@
         <fieldset>
             <legend>Formularvalidierung</legend>
             <section>
-                <label for="nameTextInput">Name:</label>
+                <label for="nameTextInput">Name: Lukas</label>
                 <input name="nameTextInput" type="text" />
             </section>
             <section>
